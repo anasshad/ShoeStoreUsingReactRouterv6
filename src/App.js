@@ -32,7 +32,7 @@ export default function App() {
 }
 
 const NotFound = () => {
-  return <div className="error">Page not fund</div>;
+  return <h2 className="error">Page not fund</h2>;
 };
 
 const Home = () => {
