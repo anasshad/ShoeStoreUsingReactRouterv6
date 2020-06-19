@@ -1,0 +1,39 @@
+body{
+font-family: Arial;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+img{
+  height: 200px;
+  width: 200px
+}
+
+ul{
+  text-align: center;
+}
+
+
+li{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+li a {
+text-decoration: none;
+list-style-type: none}
+
+.error{
+color: red}
+
+
+nav a {
+  margin: 20px;
+  text-decoration: none;
+
+}
